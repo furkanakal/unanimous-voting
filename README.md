@@ -46,8 +46,8 @@ Fully Homomorphic Encryption allows computations to be performed directly on enc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/tfhe-voting.git
-   cd tfhe-voting
+   git clone https://github.com/your-repo/unanimous-voting.git
+   cd unanimous-voting
    ```
 
 2. Install dependencies:
