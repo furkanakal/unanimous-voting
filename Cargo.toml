@@ -1,0 +1,7 @@
+[package]
+name = "tfhe-voting"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tfhe = { version = "0.10.0", features = ["boolean", "shortint", "integer", "aarch64-unix"] }
