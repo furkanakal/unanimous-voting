@@ -66,7 +66,7 @@ Fully Homomorphic Encryption allows computations to be performed directly on enc
 
 2. The program will output whether the vote was unanimous:
    ```
-   The vote is unanimous: True
+   The vote is unanimous: False
    ```
 
 ---
